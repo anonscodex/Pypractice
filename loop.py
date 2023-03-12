@@ -12,3 +12,10 @@ odd = 1
 while odd <= 100:
     print(odd)
     odd += 2
+
+greet = 'hello'
+count = 0
+while count < 6:
+    print(greet)
+    count += 1
+    
